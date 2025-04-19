@@ -4,6 +4,6 @@ Aqui nesse repositório tem as principais questões que fiz no beecrowd, Usei a 
 Principais conteudos do repositorio
 - Estruturas Condicionais 
 - Estruturas de Repetição 
-- Vetores e Marizes 
+- Vetores e Matrizes
 - Structs , Unions e Enums 
 - Strings 
